@@ -1,0 +1,15 @@
+
+.navWelcome {
+    text-align: center;
+    position: absolute;
+    -webkit-text-size-adjust: auto;
+}
+
+.h1 {
+    height: 50px;
+    width: 40px;
+    vertical-align: middle;
+    float: left;
+    flex-flow: row;
+    flex: auto;
+}
